@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1675125674 source:c:\users\etmke\downloads\c-workspace\test2\main.c
+	<stdio.h>
+	<stdlib.h>
+
