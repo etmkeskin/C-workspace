@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1675127748 source:c:\users\etmke\downloads\c-workspace\conditionals\main.c
+	<stdio.h>
+	<stdlib.h>
+
