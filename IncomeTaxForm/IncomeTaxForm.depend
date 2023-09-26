@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695763367 source:c:\users\etmke\downloads\c-workspace\incometaxform\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
