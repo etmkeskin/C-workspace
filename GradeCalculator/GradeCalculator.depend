@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695769195 source:c:\users\etmke\downloads\c-workspace\gradecalculator\main.c
+	<stdio.h>
+	<string.h>
+
