@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695774494 source:/home/eto/Documents/GitHub/C-workspace/CountingCharacters/main.c
+	<stdio.h>
+	<string.h>
+
