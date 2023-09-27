@@ -1,5 +1,6 @@
-#ifndef BANKACCOUNT_H_INCLUDED
-#define BANKACCOUNT_H_INCLUDED
+/* TODO: Type your header file guards and include directives here. */
+#ifndef BANK_ACCOUNT_H
+#define BANK_ACCOUNT_H
 
 typedef struct BankAccount_struct{
 
@@ -23,5 +24,4 @@ BankAccount WithdrawSavings(double amt, BankAccount account);
 BankAccount TransferToSavings(double amt, BankAccount account);
 
 
-
-#endif // BANKACCOUNT_H_INCLUDED
+#endif

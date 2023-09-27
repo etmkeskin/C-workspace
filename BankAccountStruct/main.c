@@ -4,7 +4,7 @@
 #include "BankAccount.h"
 
 int main() {
-   BankAccount account = InitBankAccount("Mickey", 500.00, 1000);
+   BankAccount account = InitBankAccount("Mickey", 500.00, 1000.00);
    char name[20];
 
    account = SetChecking(500, account);

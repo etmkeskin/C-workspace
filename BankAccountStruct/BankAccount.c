@@ -76,3 +76,13 @@ BankAccount TransferToSavings(double amt, BankAccount account){
    account.savingBal += amt;
    return account;
 }
+
+
+
+
+
+
+
+
+
+

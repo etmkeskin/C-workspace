@@ -4,5 +4,6 @@
 	<string.h>
 	"BankAccount.h"
 
-1695776330 /home/eto/Documents/GitHub/C-workspace/BankAccountStruct/BankAccount.h
+1695781735 /home/eto/Documents/GitHub/C-workspace/BankAccountStruct/BankAccount.h
+	<stdio.h>
 
